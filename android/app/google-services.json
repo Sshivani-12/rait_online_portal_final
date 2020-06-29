@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227888012181",
+    "firebase_url": "https://rait-online.firebaseio.com",
+    "project_id": "rait-online",
+    "storage_bucket": "rait-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227888012181:android:bdbd272724ed8e0725749c",
+        "android_client_info": {
+          "package_name": "com.RaitOnline.rait_online_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227888012181-rsmeu8pii56iom8btncgt74lnaopotnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7BbzMjaXdpIok2XRmDX-_OyG-MjUScM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227888012181-rsmeu8pii56iom8btncgt74lnaopotnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
